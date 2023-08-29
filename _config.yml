@@ -15,14 +15,14 @@ author: 100k Posttax
 logo: assets/images/large-logo.png
 twitter:
   username: cvstrydom
-# social:
-#   name: Sandoche Adittane
-#   links:
-#     - https://twitter.com/sandochee
-#     - https://www.facebook.com/sandoche
-#     - https://www.linkedin.com/in/sandoche
-#     - https://plus.google.com/+SandocheADITTANE
-#     - https://github.com/sandoche
+social:
+  name: Sandoche Adittane
+  links:
+    - https://twitter.com/sandochee
+    - https://www.facebook.com/sandoche
+    - https://www.linkedin.com/in/sandoche
+    - https://plus.google.com/+SandocheADITTANE
+    - https://github.com/sandoche
 
 languages: ["en"]
 ampdir: amp
